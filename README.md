@@ -32,7 +32,7 @@
 
 - **Frontend:** HTML, CSS, JSP
 - **Backend:** Servlets
-- **Database:** JDBC, SQL (mention your database system)
+- **Database:** JDBC, SQL 
 
 ## Usage
 
